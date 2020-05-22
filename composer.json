@@ -19,7 +19,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "NcJoes\\OfficeConverter\\" : "src/OfficeConverter"
+            "Sfaa\\OfficeConverter\\" : "src/OfficeConverter"
         }
     },
     "minimum-stability" : "stable"
