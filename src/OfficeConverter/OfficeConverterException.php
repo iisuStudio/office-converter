@@ -1,6 +1,6 @@
 <?php
 
-namespace NcJoes\OfficeConverter;
+namespace Sfaa\OfficeConverter;
 
 class OfficeConverterException extends \Exception
 {
